@@ -1,0 +1,8 @@
+operaciones: defininda con funciones
+producto       # ya ta
+suma, resta    # erick
+inversa        #alex 
+transpuesta    # jhon
+determinante   #juan carlos
+
+MENU|opciones #emerson
